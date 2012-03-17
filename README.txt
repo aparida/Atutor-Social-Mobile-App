@@ -1,7 +1,8 @@
 ==== RELEASE NOTES ====
 
 Atutor Social Mobile App--
-A CrossPlatform native mobile app for ATutor Social that runs on smartphones and hand-held devices running on iOS, Android and other mobile platforms using PhoneGap
+A CrossPlatform native mobile app for ATutor Social that runs on smartphones and hand-held devices running on 
+iOS, Android and other mobile platforms using PhoneGap
 
 The main aim of the app is to provide access to Atutor [http://atutor.ca/atutor/] via mobile devices.
 You can know a lot more from the ATSocialDocumentation.pdf in this repo.
@@ -36,7 +37,8 @@ Blackberry
 Symbiam
 WebOS
 
-To Install the app in their respective handsets, one needs to either use the QR Code to download directly to their phones or download via link from the website perhaps.
+To Install the app in their respective handsets, one needs to either use the QR Code to download directly to their phones or
+download via link from the website perhaps.
 
 The installer file is like any other application for each mobile os and every user is familiar with them. 
 
