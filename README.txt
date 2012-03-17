@@ -1,7 +1,10 @@
 ==== RELEASE NOTES ====
 
-Atutor Social Mobile App----------------
-The main aim of the app is to provide access to Atutor
+Atutor Social Mobile App--
+A CrossPlatform native mobile app for ATutor Social that runs on smartphones and hand-held devices running on iOS, Android and other mobile platforms using PhoneGap
+
+The main aim of the app is to provide access to Atutor [http://atutor.ca/atutor/] via mobile devices.
+You can know a lot more from the ATSocialDocumentation.pdf in this repo.
 
 ==FEATURES==
 Remote Login
