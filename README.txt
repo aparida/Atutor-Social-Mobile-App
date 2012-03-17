@@ -3,9 +3,7 @@
 Atutor Social Mobile App----------------
 The main aim of the app is to provide access to Atutor
 
-
-
-1.Features
+==FEATURES==
 Remote Login
 Self Activity
 Network Activity
@@ -13,24 +11,21 @@ Friends Contact List
 Profile and settings
 
 
-2.Todo(unimplemented)
+==TODO(unimplemented)==
 Groups and Gadgets
 Auto login 
 Localstorage for offline access
 Search Contacts
 
 
-
-3.Bugs(if any)
+==BUGS(if any)==
 empty/ incorrect login prompt
 online/offline prompt
 displayName not coming
 
 
 
-
-
-4.Installation
+==INSTALLATION==
 The app is installable in 5 different Mobile OS
 Android 
 iOS
@@ -43,7 +38,7 @@ To Install the app in their respective handsets, one needs to either use the QR 
 The installer file is like any other application for each mobile os and every user is familiar with them. 
 
 
-5.How it works
+==HOW IT WORKS==
 Once the app is installed , open the app and enter the Atutor login credentials along with user Id and Base url.
 
 Click login to enter the app.
